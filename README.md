@@ -10,11 +10,9 @@ PRINCIPAIS USOS: Criação de mapas interativos no PowerBI com a ferramenta [Map
 ### Região Norte
 <!--
 * AC / Acre - [geojson/geojs-12-mun.json](geojson/geojs-12-mun.json)
--->
-* AM / Amazonas - [TopoJsonBrasil/Norte/TOPO-13-mun-Amazonas.json](TopoJsonBrasil/Norte/TOPO-13-mun-Amazonas.json)
-<!--
 * AP / Amapá - [geojson/geojs-16-mun.json](geojson/geojs-16-mun.json)
 -->
+* AM / Amazonas - [TopoJsonBrasil/Norte/TOPO-13-mun-Amazonas.json](TopoJsonBrasil/Norte/TOPO-13-mun-Amazonas.json)
 * PA / Pará  - [TopoJsonBrasil/Norte/TOPO-21-mun-Para.json](TopoJsonBrasil/Norte/TOPO-21-mun-Para.json)
 <!-- 
 * RO / Rondônia - [geojson/geojs-11-mun.json](geojson/geojs-11-mun.json)
