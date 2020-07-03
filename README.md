@@ -1,5 +1,5 @@
 ﻿
-TopoJson Brasil
+TopoJson Municípios Brasileiros
 ===================
 
 Este projeto contém arquivos [Topojson](https://github.com/topojson) dos municípios estaduais brasileiros
