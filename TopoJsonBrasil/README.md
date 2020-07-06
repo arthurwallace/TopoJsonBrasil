@@ -8,19 +8,15 @@ PRINCIPAIS USOS: Criação de mapas interativos no PowerBI com a ferramenta [Map
 
 
 ### Região Norte
-<!--
-* AC / Acre - [geojson/geojs-12-mun.json](geojson/geojs-12-mun.json)
--->
+
+* RO / Rondônia - [TopoJsonBrasil/Norte/TOPO-11-mun-Rondonia.json](TopoJsonBrasil/Norte/TOPO-11-mun-Rondonia.json)
+* AC / Acre - [TopoJsonBrasil/Norte/TOPO-12-mun-Acre.json](TopoJsonBrasil/Norte/TOPO-12-mun-Acre.json)
 * AM / Amazonas - [TopoJsonBrasil/Norte/TOPO-13-mun-Amazonas.json](TopoJsonBrasil/Norte/TOPO-13-mun-Amazonas.json)
-<!--
-* AP / Amapá - [geojson/geojs-16-mun.json](geojson/geojs-16-mun.json)
--->
-* PA / Pará  - [TopoJsonBrasil/Norte/TOPO-21-mun-Para.json](TopoJsonBrasil/Norte/TOPO-21-mun-Para.json)
-<!-- 
-* RO / Rondônia - [geojson/geojs-11-mun.json](geojson/geojs-11-mun.json)
-* RR / Roraima - [geojson/geojs-14-mun.json](geojson/geojs-14-mun.json)
-* TO / Tocantins - [geojson/geojs-17-mun.json](geojson/geojs-17-mun.json)
--->
+* RR / Roraima - [TopoJsonBrasil/Norte/TOPO-14-mun-Roraima.json](TopoJsonBrasil/Norte/TOPO-14-mun-Roraima.json)
+* PA / Pará  - [TopoJsonBrasil/Norte/TOPO-15-mun-Para.json](TopoJsonBrasil/Norte/TOPO-21-mun-Para.json)
+* AP / Amapá - [TopoJsonBrasil/Norte/TOPO-16-mun-Amapa.json](TopoJsonBrasil/Norte/TOPO-16-mun-Amapa.json)
+* TO / Tocantins - [TopoJsonBrasil/Norte/TOPO-17-mun-Tocantins.json](TopoJsonBrasil/Norte/TOPO-17-mun-Tocantins.json)
+
 
 ### Região Nordeste
 * MA / Maranhão - [TopoJsonBrasil/Nordeste/TOPO-21-mun-Maranhao.json](TopoJsonBrasil/Nordeste/TOPO-21-mun-Maranhao.json)
@@ -33,30 +29,30 @@ PRINCIPAIS USOS: Criação de mapas interativos no PowerBI com a ferramenta [Map
 * SE / Sergipe - [TopoJsonBrasil/Nordeste/TOPO-28-mun-Sergipe.json](TopoJsonBrasil/Nordeste/TOPO-28-mun-Sergipe.json)
 * BA / Bahia - [TopoJsonBrasil/Nordeste/TOPO-29-mun-Bahia.json](TopoJsonBrasil/Nordeste/TOPO-29-mun-Bahia.json)
 
-<!-- 
+
 ### Região Sudeste
-* ES / Espíriro Santo - [geojson/geojs-32-mun.json](geojson/geojs-32-mun.json)
-* MG / Minas Gerais - [geojson/geojs-31-mun.json](geojson/geojs-31-mun.json)
-* RJ / Rio de Janeiro - [geojson/geojs-33-mun.json](geojson/geojs-33-mun.json)
-* SP / São Paulo - [geojson/geojs-35-mun.json](geojson/geojs-35-mun.json)
+* MG / Minas Gerais - [TopoJsonBrasil/Sudeste/TOPO-31-mun-MinasGerais.json](TopoJsonBrasil/Sudeste/TOPO-31-mun-MinasGerais.json)
+* ES / Espíriro Santo - [TopoJsonBrasil/Sudeste/TOPO-32-mun-EspiritoSanto.json](TopoJsonBrasil/Sudeste/TOPO-32-mun-EspiritoSanto.json)
+* RJ / Rio de Janeiro - [TopoJsonBrasil/Sudeste/TOPO-33-mun-RioDeJaneiro.json](TopoJsonBrasil/Sudeste/TOPO-33-mun-RioDeJaneiro.json)
+* SP / São Paulo - [TopoJsonBrasil/Sudeste/TOPO-35-mun-SaoPaulo.json](TopoJsonBrasil/Sudeste/TOPO-35-mun-SaoPaulo.json)
 
 
 ### Região Sul
-* PR / Paraná - [geojson/geojs-41-mun.json](geojson/geojs-41-mun.json)
-* RS / Rio Grande do Sul - [geojson/geojs-43-mun.json](geojson/geojs-43-mun.json)
-* SC / Santa Catarina - [geojson/geojs-42-mun.json](geojson/geojs-42-mun.json)
+* PR / Paraná - [TopoJsonBrasil/Sul/TOPO-41-mun-Parana.json](TopoJsonBrasil/Sul/TOPO-41-mun-Parana.json)
+* SC / Santa Catarina - [TopoJsonBrasil/Sul/TOPO-42-mun-SantaCatarina.json](TopoJsonBrasil/Sul/TOPO-42-mun-SantaCatarina.json)
+* RS / Rio Grande do Sul - [TopoJsonBrasil/Sul/TOPO-43-mun-RioGrandeDoSul.json](TopoJsonBrasil/Sul/TOPO-43-mun-RioGrandeDoSul.json)
 
 
 ### Região Centro-Oeste
-* DF / Distrito Federal - [geojson/geojs-53-mun.json](geojson/geojs-53-mun.json) 
-* GO / Goiás - [geojson/geojs-52-mun.json](geojson/geojs-52-mun.json)
-* MT / Mato Grosso - [geojson/geojs-51-mun.json](geojson/geojs-51-mun.json)
-* MS / Mato Grosso do Sul - [geojson/geojs-50-mun.json](geojson/geojs-50-mun.json)
+* MS / Mato Grosso do Sul - [TopoJsonBrasil/Centro-Oeste/TOPO-50-mun-MatoGrossoDoSul.json](TopoJsonBrasil/Centro-Oeste/TOPO-50-mun-MatoGrossoDoSul.json)
+* MT / Mato Grosso - [TopoJsonBrasil/Centro-Oeste/TOPO-51-mun-MatoGrosso.json](TopoJsonBrasil/Centro-Oeste/TOPO-51-mun-MatoGrosso.json)
+* GO / Goiás - [TopoJsonBrasil/Centro-Oeste/TOPO-52-mun-Goias.json](TopoJsonBrasil/Centro-Oeste/TOPO-52-mun-Goias.json)
+* DF / Distrito Federal - [TopoJsonBrasil/Centro-Oeste/TOPO-53-mun-DistritoFederal.json](TopoJsonBrasil/Centro-Oeste/TOPO-53-mun-DistritoFederal.json) 
 
 
 ### Brasil
-* BR / Brasil - [geojson/geojs-100-mun.json](geojson/geojs-100-mun.json)
--->
+* BR / Brasil - [TopoJsonBrasil/Brasil/TOPO-100-mun-BrasilMunicipios.json](TopoJsonBrasil/Brasil/TOPO-100-mun-BrasilMunicipios.json)
+
 
 Fonte dos dados
 ---------------
